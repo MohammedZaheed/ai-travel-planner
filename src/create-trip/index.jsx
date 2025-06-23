@@ -57,7 +57,7 @@ function CreateTrip() {
       return;
     }
 
-    if (!formData?.location || !formData?.budget || !formData?.traveler) {
+    if (formData?.noOfDAys > 5 && !formData?.location || !formData?.budget || !formData?.traveler) {
       toast("Please fill all details")
       return;
     }
