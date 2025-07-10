@@ -72,6 +72,3 @@ An intelligent, cloud-native travel planning web application that leverages **Go
 5. **Access the app:**
    Open [http://localhost:5173](http://localhost:5173) in your browser.
 
-## ✨ Contributing
-
-Pull requests are welcome. For major changes, please open an issue first.
